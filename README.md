@@ -114,7 +114,7 @@ Both solutions were developed with a focus on **data exploration**, **structured
 1. **Install dependencies:**
 
 ```bash
-pipenv install pandas numpy matplotlib seaborn plotly nbformat scipy scikit-learn ipykernel
+pip install -r requirements.txt
 ```
 
 2. **Activate the virtual environment:**
@@ -251,7 +251,7 @@ Ambas soluciones fueron desarrolladas con enfoque en la **exploración de datos*
 1. **Instalar dependencias:**
 
 ```bash
-pipenv install pandas numpy matplotlib seaborn plotly nbformat scipy scikit-learn ipykernel
+pip install -r requirements.txt
 ```
 
 2. **Activar el entorno virtual:**
@@ -384,7 +384,7 @@ Ambas as soluções foram desenvolvidas com foco em **exploração de dados**, *
 1. **Instale as dependências:**
 
 ```bash
-pipenv install pandas numpy matplotlib seaborn plotly nbformat scipy scikit-learn ipykernel
+pip install -r requirements.txt
 ```
 
 2. **Ative o ambiente virtual:**
